@@ -1,4 +1,4 @@
-## Programming Techniques Week 3
+## Programming Techniques Week 2
 
 ### Leet Code Easy "2582. Pass the Pillow"
 [Link](a="https://leetcode.com/problems/pass-the-pillow/description/")
